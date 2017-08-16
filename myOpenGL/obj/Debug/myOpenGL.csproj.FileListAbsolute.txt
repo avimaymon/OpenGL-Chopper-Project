@@ -1,0 +1,333 @@
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+D:\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\11.5.09 פרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+D:\11.5.09 פרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\11.5.09 פרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+W:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+W:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+W:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+W:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+W:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Documents and Settings\515\Desktop\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+F:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+F:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Documents and Settings\513\Desktop\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+G:\גרפיקה ממוחשבת1\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Documents and Settings\rofe2\שולחן העבודה\11.5.09 שלד לפרוייקט גמר\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Documents and Settings\rofe2\שולחן העבודה\‏‏ פרוייקט  גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\אביתר\לימודים\שנה ג\סמסטר ב\גרפיקה מחשבית\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.exe
+D:\אביתר\לימודים\שנה ג\סמסטר ב\גרפיקה מחשבית\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\משנה קודמת\גרפיקה\‏‏פרוייקט גמר גרפיקה\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\1112\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\1112\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\1112\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\comp grafice proj\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Segev\Desktop\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\OPENGL - EX\proj\comp grafice proj 8.11918\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\8.1 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\1401131930\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\14.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 23.30\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\21.1 time 20.00\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 19.2 12.00 update\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 19.2 12.00 update1848\comp grafice proj 19.2 23.30last\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\comp grafice proj 20.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\comp grafice proj 21.2 19..00 update buildings\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\23.2.13 17.24 shadow on ground\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2.13 17.24 shadow on ground2107\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\23.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.read.1.tlog
+C:\Users\Avi\Desktop\Opengl f projects\grafice project avi and eli\24.2 22.16\comp grafice proj 8.1\myOpenGL\obj\Debug\RESGEN.write.1.tlog
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Segev\Desktop\לימודים\1לימודים\שנה ד\שנה ד\פרויקט בגרפיקה מחשבית\24.2 16.43  final with comments\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.exe
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.exe
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\הנדסת מחשבים\הנדסת מחשבים שנה ד\תשעד סמסטר א\גרפיקה מחשבית\comp grafice proj 8.1\comp grafice proj 8.1\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsP\myOpenGL\bin\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsP\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\GraphicsP\GraphicsP\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\GraphicsP\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\GraphicsP\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\GraphicsP\1.2\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+D:\לימודים\שנה סוף\א'\גרפיקה\GraphicsRotor\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi\Downloads\GraphicsP update\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi\Desktop\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Avi Maymon\Downloads\GraphicsProject\GraphicsP update\myOpenGL\obj\Debug\myOpenGL.pdb

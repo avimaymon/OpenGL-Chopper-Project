@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="myOpenGL">
+</Property><Property Name="Solution File" Value="D:\P5\3Dtransformations\myOpenGL.sln">
+</Property><Property Name="User Options File" Value="D:\P5\3Dtransformations\myOpenGL.suo">
+</Property><Property Name="Date" Value="יום שני 23 מרץ 2009">
+</Property><Property Name="Time" Value="16:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="myOpenGL.sln" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL.sln">
+</Event><Event ErrorLevel="0" Project="" Source="myOpenGL.suo" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL.suo">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\myOpenGL.csproj" Description="Project file successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\myOpenGL.csproj">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\cOGL.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\cOGL.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Form1.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Form1.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Form1.Designer.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\GLU.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\GLU.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\GLUT.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\GLUT.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\OpenGL.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\OpenGL.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Program.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Program.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\WGL.cs" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\WGL.cs">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Properties\Settings.settings" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Form1.resx" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Form1.resx">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\Properties\Resources.resx" Description="File successfully backed up as D:\P5\3Dtransformations\Backup\myOpenGL\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\myOpenGL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="myOpenGL" Source="myOpenGL\myOpenGL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="myOpenGL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="myOpenGL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="myOpenGL" Source="myOpenGL\myOpenGL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,64 @@
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\TEMP\Visual Studio 2005\Projects\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\L2\FileFormats\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P4\FileFormats\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+E:\LECTURES info\LECTURES contents\CGraphics 2008\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Documents and Settings\lab103\Desktop\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
